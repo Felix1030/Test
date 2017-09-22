@@ -5,3 +5,4 @@ Git tracks changes of files22222eeee
 Creating a new branch is quick.
 lalallalalalalalalalalalalalalalalala
 Creating a new branch is quick and simple.
+Switched to a new branch 'dev'
