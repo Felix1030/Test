@@ -7,3 +7,4 @@ lalallalalalalalalalalalalalalalalala
 Creating a new branch is quick and simple.
 Switched to a new branch 'dev'
 Switched to a new branch ‘issue-101’
+Switched to a new branch 'dev'
