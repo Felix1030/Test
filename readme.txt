@@ -4,4 +4,4 @@ this is my first write file 1111
 Git tracks changes of files22222eeee
 Creating a new branch is quick.
 lalallalalalalalalalalalalalalalalala
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
